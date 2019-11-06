@@ -4,6 +4,4 @@ i am miltos , nice to meet you!! I am 21 years old . I live in Koropi. I study a
 
 Grafo merika pragmata apla gia na dokimaso ena add kai ena commit sto git bash remotely kai oxi kateutheian sto GitHub.
 
-
-
-Den katalavaino gamo!
+asta ta xaza
